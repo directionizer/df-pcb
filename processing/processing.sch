@@ -376,9 +376,9 @@ Wire Wire Line
 	8500 3900 8400 3900
 Wire Wire Line
 	8400 3800 8500 3800
-Text GLabel 8600 4400 2    50   Input ~ 0
-TX
 Text GLabel 8600 4300 2    50   Input ~ 0
+TX
+Text GLabel 8600 4400 2    50   Input ~ 0
 RX
 Wire Wire Line
 	8600 4400 8400 4400
