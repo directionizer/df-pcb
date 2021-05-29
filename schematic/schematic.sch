@@ -898,9 +898,9 @@ Wire Wire Line
 	3600 6000 3800 6000
 Wire Wire Line
 	3800 6100 3600 6100
-Text GLabel 3800 6000 2    50   Input ~ 0
-RX
 Text GLabel 3800 6100 2    50   Input ~ 0
+RX
+Text GLabel 3800 6000 2    50   Input ~ 0
 TX
 Wire Wire Line
 	3600 5200 3800 5200
